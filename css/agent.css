@@ -1,0 +1,50 @@
+.agent {
+	background-image: url(../image/bg-medium-tile.jpg);
+	height: 675px;
+	background-repeat: repeat-x;
+	padding: 0;
+	margin: 0;
+}
+
+.agent .background {
+	position: absolute;
+	right: 0px;
+	top: 100px;
+}
+
+.agent .main {
+	margin:  0 auto;
+	width: 960px;
+}
+
+.agent h1 {
+	font-size: 46px;
+	padding-top: 50px;
+	font-weight: 500;
+}
+
+.agent h2 {
+	font-size: 38px;
+	font-weight: 700;
+	padding: 0;
+}
+
+.agent span{
+	font-size: 18px;
+}
+
+.agent .info{
+	padding: 20px 0 0 0;
+}
+
+.agent .telephone {
+	float: left;
+	padding: 37px 0 0 10px;
+}
+.agent .email {
+	float: left;
+	padding: 14px 0 0 10px;
+}
+
+
+
