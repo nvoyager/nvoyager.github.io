@@ -2,11 +2,12 @@
 	margin: 0 auto;
 	width: 960px;
 	padding: 40px 0;
+	
 }
 
 .info .main  .news{
 	float: left;
-	
+	padding-bottom: 40px;
 }
 
 .info .main  .news  .head {
@@ -156,6 +157,63 @@
 	border: solid 1px #efefef;
 	text-align:center;
 }
+
+.choose  .main{
+	margin: 0 auto;
+	padding: 40px 0;
+	width: 960px;
+}
+
+.choose  h2 {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 500;
+}
+
+.choose .main .reason-item {
+	float: left;
+	width: 220px;
+	padding: 20px 20px 0 0;
+}
+
+.choose .reason-item .icon {
+	background-repeat: no-repeat;
+	display: block;
+	width: 60px;
+	height: 60px;
+	margin: 20px 60px;
+}
+
+.choose .reason-item  .secure {
+	background-image: url(../image/advance-1.png);
+}
+
+.choose .reason-item  .simple {
+	background-image: url(../image/advance-3.png);
+}
+
+.choose .reason-item  .quick {
+	background-image: url(../image/advance-2.png);
+}
+
+.choose .reason-item  .love {
+	background-image: url(../image/advance-6.png);
+}
+
+.choose .reason-item  .title {
+	font-size: 18px;
+}
+
+.choose .reason-item  .desc{
+	color: #858d9d;
+	padding-top: 10px;
+}
+
+
+
+
+
+
 
 
 
