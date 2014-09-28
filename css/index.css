@@ -1,0 +1,169 @@
+.info .main {
+	margin: 0 auto;
+	width: 960px;
+	padding: 40px 0;
+}
+
+.info .main  .news{
+	float: left;
+	
+}
+
+.info .main  .news  .head {
+	padding: 20px 0 10px 0;
+	float: left;
+	width: 520px;
+}
+
+.info  a {
+	color: #858d9d;
+}
+
+.info  a:hover {
+	color: #a64600;
+}
+
+.info .main  .news  .head span{
+	float: left;
+	font-size: 16px;
+}
+
+.info .main  .news  .head a{
+	float: right;
+	padding-top: 2px;
+}
+
+.info .main .news .line-1 {
+	width: 520px;
+	height: 2px;
+	background-color: #2e3c50;
+}
+
+.info .main .news .news-item {
+	padding-top: 15px;
+}
+
+.info .main .news .news-item  .title{
+	float: left;
+}
+
+.info .main .news .news-item  .time{
+	float: right;
+}
+
+
+.info .main .announce {
+	float: right;
+	width: 380px;
+}
+
+.info .main  .announce .head {
+	float: left;
+	padding: 20px 0 10px 0;
+	width: 380px;
+}
+
+.info .main .announce .head  span {
+	font-size: 16px;
+	float: left;
+}
+
+.info .main .announce .head  a{
+	float: right;
+	padding-top:2px;
+}
+
+.info .main .announce .line-1 {
+	width: 380px;
+	height: 2px;
+	background-color: #2e3c50;
+}
+
+.info .main .announce-item{
+	padding-top: 15px; 
+}
+
+
+.info .main .announce-item  img{
+	width: 12px;
+	display: inline;
+	float: left;
+}
+
+.info .main .announce-item  .title{
+	padding-left: 10px;
+	float: left;
+	display: block;
+}
+
+.partner .main {
+	margin: 0 auto;
+	width: 960px;
+	padding: 40px 0;
+	
+}
+
+.partner .main .head {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+
+.partner .main .line-1{
+	width: 960px;
+	height: 2px;
+	background-color: #2e3c50;
+}
+
+.partner ul {
+	padding-top: 20px;
+}
+
+.partner li{
+	float: left;
+	padding: 0 50px 0 0;
+	width: 105px;
+}
+
+.partner .main img {
+	width: 105;
+}
+
+.merchant .main{
+	margin: 0 auto;
+	width: 960px;
+	padding: 40px 0;
+}
+
+.merchant .main .head {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+
+.merchant .main .line-1 {
+	background-color: #2e3c50;
+	width: 960px;
+	height: 2px;
+}
+
+.merchant .main ul {
+	padding-top: 20px;
+}
+
+.merchant .main li{
+	float: left;
+	width: 238px;
+	height: 130px;
+	border: solid 1px #efefef;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
