@@ -1,0 +1,103 @@
+.service {
+	height: 250px;
+	background-color: #f6f6f6;
+}
+
+.service .main {
+	margin: 0 auto;
+	width: 960px;
+	
+}
+
+.service h2{
+	text-align: center;
+	font-size: 36px;
+	font-weight: 500;
+	padding: 50px 0 0 0;
+}
+
+.service  .item{
+	float: left;
+	width: 300px;
+	padding: 20px 20px 0 0;
+}
+
+.service .item  .title{
+	font-size: 18px;
+}
+
+
+.service .telephone {
+	float: left;
+	padding: 20px 0 0 10px;
+	color: #ff6a00;
+}
+.service .email {
+	float: left;
+	padding: 6px 0 0 10px;
+	color: #ff6a00;
+}
+
+.service .qq-talk {
+	color: #fff;
+	font-size: 12px;
+	background: #626365;
+	border-radius: 4px !important;
+	padding: 0 15px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+
+.choose  .main{
+	margin: 0 auto;
+	padding: 40px 0;
+	width: 960px;
+}
+
+.choose  h2 {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 500;
+}
+
+.choose .main .reason-item {
+	float: left;
+	width: 220px;
+	padding: 20px 20px 0 0;
+}
+
+.choose .reason-item .icon {
+	background-repeat: no-repeat;
+	display: block;
+	width: 60px;
+	height: 60px;
+	margin: 20px 60px;
+}
+
+.choose .reason-item  .secure {
+	background-image: url(../image/advance-1.png);
+}
+
+.choose .reason-item  .simple {
+	background-image: url(../image/advance-3.png);
+}
+
+.choose .reason-item  .quick {
+	background-image: url(../image/advance-2.png);
+}
+
+.choose .reason-item  .love {
+	background-image: url(../image/advance-6.png);
+}
+
+.choose .reason-item  .title {
+	font-size: 18px;
+}
+
+.choose .reason-item  .desc{
+	color: #858d9d;
+	padding-top: 10px;
+}
+
