@@ -1,0 +1,23 @@
+.news {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.new .category {
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+.new .list {
+	float: left;
+	width: 620px;
+	border: solid;
+}
+
+
+
+
+
+
+
